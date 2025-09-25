@@ -1,4 +1,4 @@
-# salesforce_project_managment_app
+# Salesforce_Project_Managment_App
 This Salesforce-based Project Management App streamlines end-to-end project workflows by leveraging custom objects, automation, Apex logic, and Lightning components. It supports role-based access, task tracking, milestone reporting, and external integrations via REST APIs. Built with scalable data modeling and secure deployment practices, the app includes dashboards, approval processes, and responsive UI for efficient collaboration across teams, clients, and managers within the Salesforce ecosystem.
 
 Phase 1: Problem Understanding & Industry Analysis Goal: Understand project needs, industry practices, and define objectives.
