@@ -1,0 +1,18 @@
+import { LightningElement, track, wire } from 'lwc';
+import getTasks from '@salesforce/apex/TaskController.getTasks';
+
+export default class TaskList extends LightningElement {
+    @track tasks;
+    @track error;
+
+    @wire(getTasks)
+    wiredTasks({ error, data }) {
+        if (data) {
+            this.tasks = data;
+            this.error = undefined;
+        } else if (error) {
+            this.error = error.body.message;
+            this.tasks = undefined;
+        }
+    }
+}
