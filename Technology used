@@ -2,21 +2,15 @@ Technologies Used
 
 1. Salesforce Platform – Core CRM platform for project and task management.
 
-
 2. Apex – Server-side programming for custom business logic and automation.
-
 
 3. Lightning Web Components (LWC) – Modern UI for dynamic, responsive dashboards and components.
 
-
 4. Salesforce Flow & Process Builder – Declarative automation for workflows, approvals, and notifications.
-
 
 5. Salesforce Reports & Dashboards – Track project KPIs, tasks, and team performance.
 
-
 6. REST API / Salesforce Connect – Integration with external tools like Jira, Trello, or databases.
-
 
 7. Data Loader & Salesforce CLI (SFDX) – Bulk data management and deployment.
 
