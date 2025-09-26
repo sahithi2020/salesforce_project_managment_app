@@ -85,8 +85,5 @@ Record demo, collect feedback, and plan future enhancements for portfolio/GitHub
 
 Built and maintained by YELURI SAHITHI NAVYA
 
-demo_video:
-<video src="demo_video.mp4" controls width="600">
-  Your browser does not support the video tag.
-</video>
+
 
